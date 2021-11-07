@@ -15,7 +15,6 @@ namespace IdentityByExamples.Factory
             : base(userManager, optionsAccessor)
         {
         }
-
         protected override async Task<ClaimsIdentity> GenerateClaimsAsync(User user)
         {
             var identity = await base.GenerateClaimsAsync(user);
