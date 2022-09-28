@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8OO7NfXcPxrRdV8strIwMNdae3tSv2lThbdlLeuLaADVyJBRMvUGWOOIPKVQEJo7WjStC+ElfnI5B85+GKpEw==",
+  "dgSpecHash": "1drmR+2qko1GkMbD+007BhK1m74cC4LApxWrXfYkDGJ+0mZ+RtdIe5feku07WjGDIw+q3FOUa+HLn98oOzgv9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\projects\\identity-aspnetcore\\IdentityByExamples\\IdentityByExamples\\IdentityByExamples.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\folders\\projects\\identity-aspnetcore\\IdentityByExamples\\IdentityByExamples\\IdentityByExamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
@@ -165,7 +165,8 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.threading.threadpool\\4.3.0\\system.threading.threadpool.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
   ],
   "logs": []
 }

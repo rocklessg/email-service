@@ -1,13 +1,8 @@
 ﻿using AutoMapper;
 using EmailService;
 using IdentityByExamples.Models;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace IdentityByExamples.Controllers
@@ -147,7 +142,7 @@ namespace IdentityByExamples.Controllers
                 RedirectToAction(nameof(ResetPasswordConfirmation));
 
             var resetPassResult = await _userManager.ResetPasswordAsync(user, resetPasswordModel.Token, resetPasswordModel.Password);
-            if(!resetPassResult.Succeeded)
+            if (!resetPassResult.Succeeded)
             {
                 foreach (var error in resetPassResult.Errors)
                 {

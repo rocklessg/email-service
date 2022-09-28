@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "166dd728-a468-4863-9522-aea30c752780": {
+      "ProjectGuid": "166dd728-a468-4863-9522-aea30c752780",
+      "DisplayName": "IdentityByExamples",
+      "ColorIndex": 0
+    },
+    "ebb8ed5d-f356-4d14-827d-d79cdc85fadb": {
+      "ProjectGuid": "ebb8ed5d-f356-4d14-827d-d79cdc85fadb",
+      "DisplayName": "EmailService",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

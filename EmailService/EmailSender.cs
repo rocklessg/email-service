@@ -1,5 +1,4 @@
 ﻿using MailKit.Net.Smtp;
-using MailKit.Security;
 using MimeKit;
 using System;
 using System.IO;
@@ -103,7 +102,7 @@ namespace EmailService
                 }
                 finally
                 {
-                    
+
                     client.Dispose();
                 }
             }
